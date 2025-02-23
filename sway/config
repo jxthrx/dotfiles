@@ -20,7 +20,7 @@ set $menu 'rofi -modi run, drun, window -show drun'
 # General font setup
 font pango:Departure Mono 8
 # Hides title bar maybe?
-default_border pixel 2
+#default_border pixel 2
 
 ### Output configuration
 #
