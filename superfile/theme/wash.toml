@@ -1,0 +1,65 @@
+# Wash
+# A personal superfile theme
+
+### CHANGELOG ###
+# Ver 0.1:
+# * Initial theme
+
+# Code Syntax Highlight Theme
+code_syntax_highlight = "gruvbox"
+
+# == Border ==
+file_panel_border = "#FBF7F0"
+sidebar_border = "#1f1f19"
+footer_border = "#cbbca6"
+
+# == Active Border ==
+file_panel_border_active = "#cbbca6"
+sidebar_border_active = "#a5755a"
+footer_border_active = "#948f51"
+modal_border_active = "#393a2f"
+
+# == Background == 
+full_screen_bg = "#1f1f19"
+file_panel_bg = "#1f1f19"
+sidebar_bg = "#1f1f19"
+footer_bg = "#1f1f19"
+modal_bg = "#1f1f19"
+
+# == Foreground ==
+full_screen_fg = "#fbf2e9"
+file_panel_fg = "#fbf2e9"
+sidebar_fg = "#fbf7f0"
+footer_fg = "#fbf2e9"
+modal_fg = "#fbf2e9"
+
+# == Special Colors ==
+cursor = "#fbf7f0"
+correct = "#b8b265"
+error = "#c2896a"
+hint = "#a0b0a8"
+cancel = "#b37f46"
+gradient_color = ["#8d8d73", "#e1d0b8"]
+
+# == File Panel Special Items ==
+file_panel_top_directory_icon = "#948f51"
+file_panel_top_path = "#6f7b75"
+file_panel_item_selected_fg = "#686855"
+file_panel_item_selected_bg = "#1f1f19"
+
+# == Sidebar Special Items ==
+sidebar_title = "#a0b0a8"
+sidebar_item_selected_fg = "#b8b265"
+sidebar_item_selected_bg = "#1f1f19"
+sidebar_divider = "#393a2f"
+
+# == Modal Special Items ==
+modal_cancel_fg = "#1f1f19" 
+modal_cancel_bg = "#a5755a"
+
+modal_confirm_fg = "#1f1f19"
+modal_confirm_bg = "#6f7b75"
+
+# == Help Menu ==
+help_menu_hotkey = "#8d8d73"
+help_menu_title = "#a5755a"
