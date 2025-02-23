@@ -25,9 +25,11 @@ default_border pixel 2
 ### Output configuration
 #
 # Default wallpaper (more resolutions are available in /usr/share/backgrounds/sway/)
-output * bg /home/leezy/Pictures/Wallpaper/341-2.png tile
-output DP-3 mode 2560x1440@144Hz pos 0,480 adaptive_sync on
-output DP-2 mode 1920x1080@60Hz pos 2560,0 transform 270
+#output * bg /home/leezy/Pictures/Wallpaper/341-2.png tile
+#
+# Monitor configuration (edit to your monitor configuration)
+#output DP-3 mode 2560x1440@144Hz pos 0,480 adaptive_sync on
+#output DP-2 mode 1920x1080@60Hz pos 2560,0 transform 270
 
 ### Idle configuration
 #
